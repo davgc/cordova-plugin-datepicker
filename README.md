@@ -1,3 +1,8 @@
+# UPDATE
+> IOS 14+ FIXED
+> DARK MODE FIXED
+
+
 # DatePicker Plugin for Cordova/PhoneGap 4.0 (iOS and Android and Windows)
 
 This is a combined version of DatePicker iOS and Android and Windows plugin for Cordova/Phonegap 4.0.
