@@ -1,6 +1,6 @@
 # UPDATE
-> IOS 14+ FIXED
-> DARK MODE FIXED
+· IOS 14+ FIXED
+· DARK MODE FIXED
 
 
 # DatePicker Plugin for Cordova/PhoneGap 4.0 (iOS and Android and Windows)
